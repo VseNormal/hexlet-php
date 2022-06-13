@@ -1,0 +1,16 @@
+{
+    "name": "yevhen/php-project",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Yevhen\\PhpProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yevhen",
+            "email": "kunitskiye@gmail.com"
+        }
+    ],
+    "require": {}
+}
