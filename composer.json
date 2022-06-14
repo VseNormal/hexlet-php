@@ -1,9 +1,9 @@
 {
-    "name": "yevhen/php-project",
+    "name": "yevhen/hexlet-php",
     "description": "example package",
     "autoload": {
         "psr-4": {
-            "Yevhen\\PhpProject\\": "src/"
+            "Yevhen\\HexletPhp\\": "src/"
         }
     },
     "authors": [
